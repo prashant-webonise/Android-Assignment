@@ -12,7 +12,7 @@ import android.util.Log;
 public class AddTeamToDatabase extends SQLiteOpenHelper{
 	
 	private static final int DATABASE_VERSION = 1;
-    private static final String DATABASE_NAME = "newteamsdb";
+    private static final String DATABASE_NAME = "teamsdb";
     private static final String TABLE_NAME = "teams";
     private static final String KEY_NAME = "name";
     private static final String KEY_CAPTAIN = "captain";

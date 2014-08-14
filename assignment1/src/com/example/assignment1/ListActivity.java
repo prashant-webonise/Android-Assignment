@@ -13,19 +13,21 @@ import android.widget.Spinner;
 public class ListActivity extends Activity implements OnItemSelectedListener{
 	
 	String tmp;
+	Spinner Ipl_Teams;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_lsit_);
 		
-		Spinner Ipl_Teams = (Spinner) findViewById(R.id.spinner1);
+		Log.d("listactivity","onCreate");
+		
+		Ipl_Teams = (Spinner) findViewById(R.id.spinner1);
 		ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.list, android.R.layout.simple_spinner_item);
 		adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 		Ipl_Teams.setAdapter(adapter);
 		
 		Ipl_Teams.setOnItemSelectedListener(this);
-		
 		
 	}	
 	

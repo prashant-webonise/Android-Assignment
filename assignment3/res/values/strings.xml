@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">assignment3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="list">
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Delhi</item>
+        <item>Bangalore</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Punjab</item>
+        <item>Hyderabad</item>
+        <item>Rajasthan</item>
+    </string-array>
+
+</resources>
