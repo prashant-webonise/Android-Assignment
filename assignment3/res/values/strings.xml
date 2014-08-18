@@ -5,7 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     
-    <string-array name="list">
+    <string-array name="team_names">
         <item>Mumbai</item>
         <item>Pune</item>
         <item>Delhi</item>
@@ -15,6 +15,18 @@
         <item>Punjab</item>
         <item>Hyderabad</item>
         <item>Rajasthan</item>
+    </string-array>
+    
+    <string-array name="team_desc">
+        <item>The Mumbai Indians are a franchise cricket team representing the city of Mumbai in the Indian Premier League (IPL).</item>
+        <item>Pune Warriors India (Marathi: पुणे वारीयर्स इंडिया) was a franchise cricket team that represented the city of Pune in the Indian Premier League.</item>
+        <item>Delhi Daredevils (Hindi: दिल्ली डेयरडेविल्स, often abbreviated as DD) is a cricket franchise representing the city of Delhi in the Indian Premier League.</item>
+        <item>Royal Challengers Bangalore (Kannada: ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು ; often abbreviated as RCB) is a cricket team based in Bangalore, Karnataka that plays in the Indian Premier League. The team is currently led by Virat Kohli, and coached by former New Zealand captain Daniel Vettori. The team is owned by Vijay Mallya, through his flagship firm UB Group.[1] The director of the team is Sidhartha Mallya.[2][3] RCB plays its home matches at the M. Chinnaswamy Stadium.</item>
+        <item>The Chennai Super Kings (abbreviated as CSK) are a franchise cricket team based in Chennai, Tamil Nadu that plays in the Indian Premier League. Founded in 2008, the team is captained by Mahendra Singh Dhoni and coached by Stephen Fleming. The team plays its home matches at the M. A. Chidambaram Stadium in Chennai. The Super Kings are the most successful team in the IPL[1] and has won the title twice in succession (2010 and 2011).[2] They were the first Indian team to have won the Champions League Twenty20. The leading run-scorer of the team is Suresh Raina, while the leading wicket-taker is Ravichandran Ashwin.[3][4] The brand value of the Super Kings in 2012 was estimated at US$75.13 million, making them the most valuable franchise in the IPL.</item>
+        <item>Kolkata Knight Riders (Bengali: কলকাতা নাইট রাইডার্স, often abbreviated as KKR) is a cricket franchise representing Kolkata in the Indian Premier League and owned by Bollywood actor Shah Rukh Khans company Red Chillies Entertainment in partnership with actress Juhi Chawla and her husband Jay Mehta from the Mehta Group.</item>
+        <item>Kings XI Punjab (Punjabi: ਕਿੰਗਜ਼ ੧੧ ਪੰਜਾਬ) is a cricket team based in Mohali, Punjab. It is jointly owned by leading Bollywood actress, Preity Zinta, Wadia Group scion, Ness Wadia, Dabur’s Mohit Burman and Karan Paul. The team plays its home matches at the PCA Stadium, Mohali. Since the 2010 IPL, they have been playing some of their home games at Dharamsala as well.Kings XI Punjab holds the record for the longest winning streak.</item>
+        <item>The Sunrisers Hyderabad (Telugu: సన్ రైజర్స్ హైదరాబాద్) (often abbreviated as SRH) are a cricket franchise based in the city of Hyderabad that plays in the Indian Premier League (IPL).[2] The team is owned by Kalanithi Maran of the Sun TV channel Network.[3] Shikhar Dhawan (sometimes Darren Sammy ) is the captain, Tom Moody is the head coach and Simon Helmot is the assistant coach of the team. Krish Srikkanth and VVS Laxman are the mentors of the team while Waqar Younis is the bowling coach of the team.[4]</item>
+        <item>Rajasthan Royals (Hindi: राजस्थान रॉयल्स) is a cricket franchise representing pink city Jaipur in the Indian Premier League.[1] The Board of Control for Cricket in India (BCCI) announced in September 2007 the establishment of the Indian Premier League, a Twenty20 competition to be started in 2008.[2] In January 2008, the BCCI unveiled the owners of eight city-based franchises. The team is one of the eight founding members of the IPL in 2008. The Jaipur franchise was sold to the Emerging Media for $67 million, making it the least expensive team in the league.[1] There is also no Icon Player in the team. It is currently captained by the Australian all rounder Shane Watson and coached by Paddy Upton. They won first edition of IPL under the captaincy of former Australian spinner Shane Warne.[3]</item>
     </string-array>
 
 </resources>
